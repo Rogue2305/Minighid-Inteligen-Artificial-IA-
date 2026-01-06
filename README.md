@@ -7,6 +7,12 @@ Sunt incluse: explicații pas cu pas, exemple end-to-end, prompturi reutilizabil
 
 Materialele sunt gândite ca suport educațional și practic, nu ca documentație teoretică.
 
+👉 **Descărcare PDF**
+ [Minighid Inteligență Artificială](./minighid-inteligenta-artificiala.pdf)
+
+⚠️ Notă: GitHub nu poate afișa preview pentru acest PDF. Descărcați fișierul pentru vizualizare completă.
+
+
 EN
 
 This repository contains the complete AI mini-guide covering practical AI usage in both personal and professional contexts.
